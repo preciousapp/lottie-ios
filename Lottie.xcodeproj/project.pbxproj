@@ -876,6 +876,7 @@
 		486E86FB220B78BF007CD915 /* Public */ = {
 			isa = PBXGroup;
 			children = (
+				486E8720220B78BF007CD915 /* LayerContainers */,
 				486E86FC220B78BF007CD915 /* MacOS */,
 				486E8701220B78BF007CD915 /* Animation */,
 				486E8705220B78BF007CD915 /* ImageProvider */,
@@ -976,7 +977,6 @@
 		486E871F220B78BF007CD915 /* Private */ = {
 			isa = PBXGroup;
 			children = (
-				486E8720220B78BF007CD915 /* LayerContainers */,
 				486E8730220B78BF007CD915 /* NodeRenderSystem */,
 				486E875F220B78BF007CD915 /* Model */,
 				486E878B220B78BF007CD915 /* Utility */,
