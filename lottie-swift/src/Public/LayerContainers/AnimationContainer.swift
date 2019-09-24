@@ -14,7 +14,7 @@ import QuartzCore
  This layer holds a single composition container and allows for animation of
  the currentFrame property.
  */
-class AnimationContainer: CALayer {
+public class AnimationContainer: CALayer {
   
   /// The animatable Current Frame Property
   @NSManaged var currentFrame: CGFloat
